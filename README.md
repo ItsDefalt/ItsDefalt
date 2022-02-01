@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning something idk lol
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: My discord tag is Defalt#9998
+- 📫 How to reach me: My discord tag is Defalt#9999
 
 <!---
 ItsDefalt/ItsDefalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
